@@ -1,11 +1,11 @@
-package dam23.datos;
+package datos;
 
 /**
  * Clase para los datos de los trabajadores
  */
 public class Trabajador {
     /**
-     * Nombre del trabajador
+     * Nombre del trabajador.
      */
     private String nombre;
     /**
