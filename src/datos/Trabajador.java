@@ -1,3 +1,5 @@
+package dam23.datos;
+
 /**
  * Clase para los datos de los trabajadores
  */

@@ -1,8 +1,14 @@
+package javadoc;
+
+
+import datos.Trabajador;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     /**
      * Número de Trabajadores con sueldo entre 1000 y 1750
+     * Version final
      */
     static Integer contador1750 = 0;
     /**
@@ -20,7 +26,7 @@ public class Main {
      */
     public static void main(String[] args) {
         Trabajador auxTrabajador;
-        // Funciones obxFunciones = new Funciones();
+        // com.javadoc.Funciones obxFunciones = new com.javadoc.Funciones();
             do {
                 auxTrabajador = Funciones.darAltaTrabajador();
                 actualizarContadores(auxTrabajador);

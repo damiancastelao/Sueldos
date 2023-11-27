@@ -1,7 +1,13 @@
+package dam23.javadoc;
+
+import datos.Trabajador;
+
 import java.util.Scanner;
 
 /**
- * Funciones utilizadas en la clase Main
+ * com.dam23.javadoc.Funciones utilizadas en la clase com.dam23.javadoc.Main
+ * @author Damian Noguerias
+ * @version v1.0
  */
 public class Funciones {
     /**
